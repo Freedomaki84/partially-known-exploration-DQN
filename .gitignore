@@ -1,0 +1,11 @@
+# Ignore the virtual environment folder
+rl-thesis/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables or local data
+.env
+results/
+tb_logs/
